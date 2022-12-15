@@ -1,0 +1,72 @@
+body{
+    background-color: antiquewhite;
+    
+}
+ #px{
+    background-color:red ;
+    height: 250px;
+    width: 500px;
+ }
+
+ #emparent{
+   background-color: blue;
+  font-size: 40px;
+ }
+
+ #em1{
+    background-color: rgb(160, 95, 117);
+    
+     
+    
+ }
+ #em2{
+   background-color: brown;
+   font-size: 3em !important;
+ }
+ #remparent{
+   background-color: black;
+   color: white;
+   font-size: 30px;
+ }
+ #rem1{
+   background-color: yellow;
+ }
+ #rem2{
+   background-color: green;
+   font-size: 3rem !important;
+ }
+
+ /*-------------------*/
+
+ #parcentparent{
+   background-color: red;
+   width: 50%;
+   height: 100px;
+ }
+  
+  #parent{
+   background-color: green;
+   width: 50%;
+   height: 50px;
+   
+ }
+ #vwvhparent{
+  background-color: red;
+  width: 50vw;
+  height: 50vh;
+ }
+ #vwvh{
+  background-color: green;
+  width: 70vw;
+  height: 10vh;
+ }
+
+
+ 
+   
+ 
+
+
+ 
+ 
+ 
